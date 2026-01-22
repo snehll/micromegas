@@ -21,7 +21,7 @@ export default function Header() {
           {/* Placeholder logo – replace with your real one */}
           <div className="relative w-10 h-10">
             <Image
-              src="/logo.png" // ← Drop your real logo here (or use /logo.png)
+              src="logo.png" // ← Drop your real logo here (or use /logo.png)
               alt="MICROMEGAS logo"
               fill
               className="object-contain rounded-full"
