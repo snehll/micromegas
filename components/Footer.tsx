@@ -17,7 +17,7 @@ export default function Footer() {
               <br />
               00-095 Warszawa, Poland
               <br />
-              NIP: 0000959488
+              NIP: 7393965145
             </p>
           </div>
 
@@ -65,13 +65,13 @@ export default function Footer() {
                   Privacy Policy
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link
                   href="/privacy-policy"
                   className="text-muted-foreground hover:text-primary">
                   Terms of Service
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
 
